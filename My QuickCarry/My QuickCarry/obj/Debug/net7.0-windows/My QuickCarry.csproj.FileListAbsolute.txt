@@ -1,0 +1,19 @@
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\bin\Debug\net7.0-windows\My QuickCarry.exe
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\bin\Debug\net7.0-windows\My QuickCarry.deps.json
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\bin\Debug\net7.0-windows\My QuickCarry.runtimeconfig.json
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\bin\Debug\net7.0-windows\My QuickCarry.dll
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\bin\Debug\net7.0-windows\My QuickCarry.pdb
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\obj\Debug\net7.0-windows\My QuickCarry.csproj.AssemblyReference.cache
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\obj\Debug\net7.0-windows\My QuickCarry.csproj.GenerateResource.cache
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\obj\Debug\net7.0-windows\My QuickCarry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\obj\Debug\net7.0-windows\My QuickCarry.AssemblyInfoInputs.cache
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\obj\Debug\net7.0-windows\My QuickCarry.AssemblyInfo.cs
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\obj\Debug\net7.0-windows\My QuickCarry.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\obj\Debug\net7.0-windows\My QuickCarry.dll
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\obj\Debug\net7.0-windows\refint\My QuickCarry.dll
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\obj\Debug\net7.0-windows\My QuickCarry.pdb
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\obj\Debug\net7.0-windows\My QuickCarry.genruntimeconfig.cache
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\obj\Debug\net7.0-windows\ref\My QuickCarry.dll
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\obj\Debug\net7.0-windows\My_QuickCarry.Properties.Resources.resources
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\obj\Debug\net7.0-windows\My_QuickCarry.formAdmin.resources
+C:\Users\Joaquin\source\repos\My QuickCarry\My QuickCarry\obj\Debug\net7.0-windows\My_QuickCarry.formLogin.resources
